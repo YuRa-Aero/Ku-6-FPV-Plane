@@ -1,7 +1,7 @@
 # Ku-6 "Ardea" FPV Plane
 ##Forward swept flying wing
 
-DOWNLOAD : https://www.dropbox.com/scl/fi/zcwyb...oiu22k06w&dl=1
+DOWNLOAD :
 
 Forward swept pusher, basically it's a Dolphin shape with more wing (airfoil) area, less pointy nose and a better performance airfoil (PW51). The fuselage itself is also an airfoil. All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible. It does not exhibit any vicious behaviour, but still I would not recommend this for a beginner because it won't resist abuses as well as a classic EPP foamy. Launches are not difficult in particular, but a pusher will always be trickier to throw than any tractor.
 
