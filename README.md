@@ -1,5 +1,15 @@
-# Ku-6 "Ardea" FPV Plane
-##Forward swept flying wing
+# Ku-6 FPV Plane
+![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/ьфшт/image.jpg?raw=true)
+
+ This is fully printable airplane with files prepared for your 3Dprinter. You can Simply download and print
+the whole plane or spare parts anytime you need.
+Also avalible version with foam-core wing and tail, but 3d printed fuselage and tailbooms. It's much lighter and easy to repair than 3d printed one.
+
+3d structural reinforcement making the model very
+
+It's easy to assembly, you don’t need any extra tools or hardware, just glue printed
+parts together and make pushrods for control surfaces. The rest of the assembly is very
+easy. Simply add brushless motor, ESC, servos and radio system. 
 
 DOWNLOAD :
 
