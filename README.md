@@ -1,5 +1,5 @@
 # Ku-6 FPV Plane
-<img src="https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/main/main.png" align=”right”>
+<img src="https://github.com/YuRa-Aero/Ku-6-FPV-Plane/tree/main/main.png" align=”right”>
  This is fully printable airplane with files prepared for your 3Dprinter. You can Simply download and print
 the whole plane or spare parts anytime you need.
 Also avalible version with foam-core wing and tail, but 3d printed fuselage and tailbooms. It's much lighter and easy to repair than 3d printed one.
