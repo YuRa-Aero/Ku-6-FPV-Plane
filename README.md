@@ -1,5 +1,5 @@
 # Ku-6 FPV Plane
-![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/ьфшт/image.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/main/main.png?raw=true)
 
  This is fully printable airplane with files prepared for your 3Dprinter. You can Simply download and print
 the whole plane or spare parts anytime you need.
