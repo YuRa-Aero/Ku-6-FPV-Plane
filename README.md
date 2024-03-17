@@ -24,10 +24,9 @@ easy. Simply add brushless motor, ESC, servos and radio/FPV system.
 ___
 
 My setup :
-
-- Batttery : Lipo 4S 2200mAh, 230 grams.
-- Motor Emax RS2306 Race Spec 2750kV, propeller 6x4.2" Gemfan Flash, top speed 190km/h
-- Motor Brotherhobby Avenger 2806.5 1920kV, propeller 7x5.5"HQ prop, slower, still pretty fast
-Recommended motors : 2807 medium kV + 7x5" + or 2307 high kV + 6x5"
+- ESC: Emax 30A ESC
+- Servo: 4x SG90S metalgear servo
+- Batttery : Lipo 3S 1800mAh, 150 grams.
+- Motor Emax ECO II 2207 1700kV, propeller 6x4.2" Gemfan Flash
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible. 
-3d structural reinforcement making the model very
+
