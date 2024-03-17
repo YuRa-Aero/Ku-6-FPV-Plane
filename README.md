@@ -1,10 +1,10 @@
-# Ku-6 FPV Plane
+# Ku-6 FPV Plane - BETA Version is availible to download!
 <img src="https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/main_view.png" align=”right”>
 
  Ku-6 is a backwards swept pusher with big wing area. It can easily take more than 600 gramms of extra weight on flight, so you can install extra systems on it. 
 Fuselage has 2 canopies, so it's easier for you to install FC and other electrinics. Aircraft is also compatable for long-range missions, group flights and photo/video shooting
 ___
-**DOWNLOAD** : Now I'm testing this plane. The files will be availible soon :)
+**DOWNLOAD** : STL files are in "BETA-stl" folder in this repository
  This is *fully printable* airplane with files prepared for your 3Dprinter. You can Simply download and print
 the whole plane or spare parts anytime you need.
 Also avalible version with *foam-core wing and tail*, but 3d printed fuselage and tailbooms. It's much lighter and easy to repair than 3d printed one.
