@@ -1,6 +1,5 @@
 # Ku-6 FPV Plane - BETA Version is availible to download!
-<img src="[https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/1.png](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/1.jpg?raw=true)" align=”right”>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/1.png?raw=true)
  Ku-6 is a backwards swept pusher with big wing area. It can easily take more than 600 gramms of extra weight on flight, so you can install extra systems on it. 
 Fuselage has 2 canopies, so it's easier for you to install FC and other electrinics. Aircraft is also compatable for long-range missions, group flights and photo/video shooting
 ___
