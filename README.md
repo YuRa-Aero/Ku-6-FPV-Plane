@@ -27,8 +27,9 @@ ___
 
 My setup :
 - ESC: Emax 30A ESC
-- Servo: 2x SG90S metalgear servo
-         2x 3,7G plastic servo
+- Servo:
+- -2x SG90S metalgear servo
+- -2x 3,7G plastic servo
 - Batttery : Lipo 3S 1800mAh, 150 grams.
 - Motor Emax ECO II 2207 1700kV, propeller 6x4.2" Gemfan Flash
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible. 
