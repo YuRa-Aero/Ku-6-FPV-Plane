@@ -1,4 +1,4 @@
-# Ku-6 FPV Plane - BETA Version is availible to download!
+# Ku-6 FPV Plane - BETA Wing&Fuselage upgrades availible!
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/1.jpg?raw=true)
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/2.jpg?raw=true)
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/4.jpg?raw=true)
