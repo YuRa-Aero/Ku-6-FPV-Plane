@@ -1,4 +1,4 @@
-# Ku-6 FPV Plane - BETA FPV stuff upgrades availible!
+# Ku-6 FPV Plane - BETA. FPV stuff upgrades availible!
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/View-31.png?raw=true)
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/View-32.png?raw=true)
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/View-33.png?raw=true)
@@ -21,21 +21,22 @@ easy. Simply add brushless motor, ESC, servos and radio/FPV system.
 **SIZE&WEIGHT**:
 <ul>
       <li>Wing span 120 cm, length : 65 cm</li>
-      <li>Weight of the naked plane + 2 wing spars : 500gr</li>
-      <li>AUW including 3S 1800mAh, 150gr battery : 650gr</li>
-      <li>Weight of my plane with all FPV gear (FC, ESC, VTX, RX, 3 servos, antennas, camera), no battery : 665gr </li>
+      <li>Weight of the naked plane + wing spars : 521gr</li>
+      <li>AUW including 3S 1800mAh, 150gr battery : 727gr</li>
+      <li>Weight of my plane with all FPV gear (FC, ESC, VTX, RX, 4 servos, antennas, camera), no battery : 577gr </li>
 </ul>
 
 ___
 
-My setup :
+**My setup** :
 - ESC: Emax 30A ESC
 - Servo:
 - -2x SG90S metalgear servo
 - -2x 3,7G plastic servo
 - Batttery : Lipo 3S 1800mAh, 150 grams.
 - Motor Emax ECO II 2207 1700kV, propeller 6x4.2" Gemfan Flash
+  
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible.
 
-Here is my telegramm channel, where you can find tips and updates for building Ku-6 - https://t.me/yura_aero 
+Here is my *telegramm channel*, where you can find tips and updates for building Ku-6 - https://t.me/yura_aero 
 
