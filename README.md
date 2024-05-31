@@ -15,8 +15,11 @@ ___
 parts together and make pushrods for control surfaces. The rest of the assembly is very
 easy. Simply add brushless motor, ESC, servos and radio/FPV system. 
 
- FPV-canopy + gps/esc mounts are availible 
+ *FPV-canopy + gps/esc mounts are availible* 
+ 
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/View-34.png?raw=true)
+
+___
 
 **SIZE&WEIGHT**:
 <ul>
