@@ -23,9 +23,9 @@ ___
 **SIZE&WEIGHT**:
 <ul>
       <li>Wing span 120 cm, length : 65 cm</li>
-      <li>Weight of the naked plane + wing spars : 521gr</li>
-      <li>AUW including 3S 1800mAh, 150gr battery : 727gr</li>
-      <li>Weight of my plane with all FPV gear (FC, ESC, VTX, RX, 4 servos, antennas, camera), no battery : 577gr </li>
+      <li>Weight of the naked plane + wing spars : 457gr</li>
+      <li>AUW including 3S 1800mAh, 150gr battery : 721gr</li>
+      <li>Weight of my plane with all FPV gear (FC, ESC, VTX, RX, 4 servos, antennas, camera), no battery : 571gr </li>
 </ul>
 
 ___
@@ -40,5 +40,6 @@ ___
   
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible.
 
-Here is my *telegramm channel*, where you can find tips and updates for building Ku-6 - https://t.me/yura_aero 
+Here is my *telegramm channel*, where you can find tips building Ku-6 and flight videos - https://t.me/yura_aero 
+
 
