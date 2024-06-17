@@ -41,5 +41,5 @@ ___
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible.
 
 Here is my *telegramm channel*, where you can find tips building Ku-6 and flight videos - https://t.me/yura_aero 
-
+фпв самолет
 
