@@ -1,5 +1,6 @@
 # Ku-6 FPV Plane - BETA Ver. 7: Fuselage servo trays upgrade availible!
-![alt text](https://github.com/YuRa-Aero/Ku-0.2-miniplane/blob/main/photo/photo_8_2024-07-19_10-19-48.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/Ku-6.jpg?raw=true)
+
 
 
  Ku-6 is a backwards swept pusher with big wing area. It can easily take more than 300 gramms of extra weight on flight, so you can install extra systems on it. 
