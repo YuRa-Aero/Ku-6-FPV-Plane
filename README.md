@@ -36,11 +36,11 @@ ___
 - Servo:
 - -2x SG90S metalgear servo
 - -2x 3,7G plastic servo
-- Batttery : Lipo 3S 1800mAh, 150 grams.
+- Batttery : Lipo 4S 1500mAh
 - Motor Emax ECO II 2207 1700kV, propeller 6x4.2" Gemfan Flash
   
  All angles are at 0° / wing (stabs, motor angle, fuselage) so it flies as neutral as possible.
 
 Here is my *telegramm channel*, where you can find tips building Ku-6 and flight videos - https://t.me/yura_aero 
-фпв самолет
+
 
