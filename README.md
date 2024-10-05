@@ -1,4 +1,4 @@
-# Ku-6 FPV Plane - BETA Ver. 7: Fuselage servo trays upgrade availible!
+# Ku-6 FPV Plane - BETA Ver. 8: Fuselage upgrade!
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/Ku-6.jpg?raw=true)
 
 
