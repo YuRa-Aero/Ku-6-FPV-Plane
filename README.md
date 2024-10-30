@@ -1,4 +1,6 @@
 # Ku-6 FPV Plane - BETA Ver. 8: Fuselage upgrade!
+
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 ![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/images/Ku-6.jpg?raw=true)
 
 
