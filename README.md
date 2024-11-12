@@ -9,6 +9,9 @@
 Fuselage has 2 canopies, so it's easier for you to install FC and other electrinics. Aircraft is also compatable for long-range missions, group flights and photo/video shooting
 ___
 **DOWNLOAD** : STL files are in "BETA-stl" folder in this repository
+
+Telegramm chat with assembling guide: https://t.me/+FQE3Cl2hGKZiODli
+
  This is *fully printable* airplane with files prepared for your 3Dprinter. You can Simply download and print
 the whole plane or spare parts anytime you need.
 Also avalible version with *foam-core wing and tail*, but 3d printed fuselage and tailbooms. It's much lighter and easy to repair than 3d printed one.
